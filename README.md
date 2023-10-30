@@ -1,3 +1,3 @@
 # IUS CS103
 
-## a repository to publish solutions of CS103 Fall 2023
+## A repository for publishing solutions for CS103 Fall 2023.
