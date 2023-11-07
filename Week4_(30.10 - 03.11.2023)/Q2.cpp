@@ -3,7 +3,8 @@
  *
  *       Filename:  Q2.cpp
  *
- *    Description:  a program that prompts the user to input the number of greetings they want and then displays a "Hello firned, C++ is fun !" message that many times, with the number of repetitions determined by the user's input.
+ *    Description:  a program that prompts the user to input the number of greetings they want and then displays a "Hello firned, C++ is fun !" message that many times, with the
+ * 					number of repetitions determined by the user's input.
  *
  *        Version:  1.0
  *        Created:  07/11/123 00:38:00
